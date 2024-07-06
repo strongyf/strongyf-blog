@@ -4,8 +4,10 @@
 
 # Site
 title: 阿飞的博客
-description: NexT - An elegant and powerful theme for Hexo.
-keywords: "Hexo, NexT"
+subtitle:
+description:
+keywords: "Hexo, NexT, strongyf"
+author: 阿飞
 language: zh-CN
 timezone: UTC
 
