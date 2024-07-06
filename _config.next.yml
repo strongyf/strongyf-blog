@@ -185,8 +185,8 @@ back2top:
 
 github_banner:
   enable: true
-  permalink: https://github.com/next-theme/hexo-theme-next
-  title: Fork NexT on GitHub
+  permalink: https://github.com/strongyf/strongyf-blog
+  title: Fork me on GitHub
 
 font:
   enable: true
