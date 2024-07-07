@@ -2,6 +2,11 @@
 ###################### NexT Configuration #######################
 #################################################################
 
+favicon:
+  small: /images/basic/favicon-16x16.png
+  medium: /images/basic/favicon-32x32.png
+  apple_touch_icon: /images/apple-touch-icon.png
+
 # ============================================================= #
 # ============= Theme Core Configuration Settings ============= #
 # ============================================================= #
@@ -115,12 +120,13 @@ sidebar:
   offset: 12
 
 avatar:
-  url: /images/logo.svg
+  url: /images/avatar.jpg
   rounded: true
 
 social:
   GitHub: https://github.com/strongyf || fab fa-github
-  Crowdin: https://crowdin.com/project/hexo-theme-next || fa fa-globe-asia
+  E-Mail: mailto:yufei5367@gmail.com || fa fa-envelope
+#  Crowdin: https://crowdin.com/project/hexo-theme-next || fa fa-globe-asia
   RSS: /atom.xml || fa fa-rss
 
 social_icons:
