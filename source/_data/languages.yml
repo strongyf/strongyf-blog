@@ -1,22 +1,6 @@
-en:
-  name: English
-  subtitle: Theme for Hexo
-  author: Theme NexT
-  description: Stay Simple. Stay NexT.
-ru:
-  name: Русский
-  subtitle: Тема для Hexo
-  author: Тема NexT
-  description: Ставь просто. Ставь NexT.
-  menu:
-    News: Новости
-    Docs: Документация
-    Getting Started: Начало работы
-    Theme Settings: Настройки темы
-    Third Party Plugins: Сторонние приложения
-    Algolia Search: Поиск Algolia
-    Tag Plugins: Плагины тэгов
-    Advanced Settings: Расширенные настройки
-    FAQ's: ЧаВо
-zh-TW:
+zh-CN:
   name: Chinese
+  title: 阿飞的博客
+  subtitle: 比完美更重要的是完成
+  author: 阿飞
+  description: Talk is cheap. Show me the code.
