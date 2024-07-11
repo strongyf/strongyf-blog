@@ -1,7 +1,7 @@
 #! /bin/bash
 
 path=$(pwd)/source/_posts/$(date +%Y/%m/)
-absoluteFilePath=$path$(date +%Y-%m-%d)-.md
+absoluteFilePath=$path$(date +%Y%m%d)-.md
 
 if [ ! -d "$path" ]; then
   mkdir -p "$path"
